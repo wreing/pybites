@@ -1,0 +1,4 @@
+[
+  "test_slicing.py::test_slice_and_dice_default_text",
+  "test_slicing.py::test_slice_and_dice_other_text"
+]
